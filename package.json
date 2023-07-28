@@ -1,8 +1,8 @@
 {
+  "homepage": "https://azim-qadri.github.io/movie-recommendation",
   "name": "movie-recommendation",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://azim-qadri.github.io/movie-recommendation",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
