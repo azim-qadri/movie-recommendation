@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import './App.css';
 
-const API_KEY = '8d85cefcb9e3a57ee9da979cb40a3379';
+const API_KEY = config.KEY;
 
 const MovieRecommendationApp = () => {
   const [genre, setGenre] = useState('');
