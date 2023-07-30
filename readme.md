@@ -1,6 +1,6 @@
 # Movie Recommendation App using React
 
-This is a simple movie recommendation app built with React that uses The Movie Database (TMDb) API to fetch and display movie recommendations based on selected genres. The app is deployed using GitHub Pages and can be accessed at [https://azim-qadri.github.io/movie-recommendation-app](https://azim-qadri.github.io/movie-recommendation-app).
+This is a simple movie recommendation app built with React that uses The Movie Database (TMDb) API to fetch and display movie recommendations based on selected genres. The app is deployed using GitHub Pages and can be accessed at [https://azim-qadri.github.io/movie-recommendation-app](https://azim-qadri.github.io/movie-recommendation/).
 
 ## Features
 
